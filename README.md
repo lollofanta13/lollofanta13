@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lollofanta13
-- 👀 I am interested in learning how to code
-- 🌱 I’m currently learning Kotlin
-- 🔨I am creating creating some games on roblox
+
 
 
 <!---
